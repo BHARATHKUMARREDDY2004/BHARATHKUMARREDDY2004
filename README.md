@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BHARATH KUMAR REDDY VEMIREDDY</h1>
 <h3 align="center">Machine Learning Enthusiast | Unlocking Insights & Turning Data into Action | Python Proficient</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning.**
+- 🌱 I’m currently learning **Web Development.**
 
 - 💬 Ask me about **Python, Machine Learning, Data Science**
 
